@@ -13,7 +13,7 @@ The application shows how HTTP requests and responses are processed through the 
 * Custom middleware for logging HTTP requests and responses
 * Global error handling using exception middleware
 * Static file serving from the wwwroot directory
-* HTTPS redirection
+* HTTPS redirection 
 * Content Security Policy (CSP) for security
 
 ---
@@ -79,5 +79,5 @@ Properties/
 * Errors handled with a custom response
 * Security headers applied
 
----
+
 
